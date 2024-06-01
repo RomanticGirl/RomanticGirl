@@ -4,7 +4,7 @@
 
 #### Contact me
 [Telegram](https://t.me/michele_watanabe)
-running.through.woodland@gmail.com
+[Mail](running.through.woodland@gmail.com)
 
 #### other 
 [leetcode](https://leetcode.com/u/Michele_Watanabe/)
